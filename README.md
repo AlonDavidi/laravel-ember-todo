@@ -1,7 +1,7 @@
 "# laravel-ember-todo" 
-$ cd frontend 
-$ npm install
-$ ember build
-$ cd ../backend
-$ composer update
-$ php artisan migrate
+1. cd frontend 
+2. npm install
+3. ember build
+4. cd ../backend
+5. composer update
+6. php artisan migrate
